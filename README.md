@@ -1,4 +1,4 @@
-# Tesla-stock-Prediction
+#Predictive Model on Tesla Stock Prediction
 Dataset
 tesla_stocks.csv (included in project folder)
 
